@@ -11,3 +11,5 @@ Intro and examples of some algorithm using JavaScript.
 7. Quick Sort
 8. Graph Representation
 9. Breadth-first Search
+
+Use NodeJs instead of browser.
